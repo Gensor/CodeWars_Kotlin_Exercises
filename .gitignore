@@ -1,0 +1,7 @@
+# Project exclude paths
+/out/
+/.idea
+/CodeWars_Kotlin_Exercises.iml
+/libs
+/src/test
+/src/main/resources
